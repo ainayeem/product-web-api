@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cxVKBvNck1Q9HiDqfKN8E8edztJkAyC/z727g2UsarM=",
+  "Source": "ECom.WebAPI",
+  "BasePath": "_content/ECom.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

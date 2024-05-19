@@ -1,0 +1,14 @@
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\bin\Debug\net8.0\ECom.Persistence.deps.json
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\bin\Debug\net8.0\ECom.Persistence.runtimeconfig.json
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\bin\Debug\net8.0\ECom.Persistence.dll
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\bin\Debug\net8.0\ECom.Persistence.pdb
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.csproj.AssemblyReference.cache
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.AssemblyInfoInputs.cache
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.AssemblyInfo.cs
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.csproj.CoreCompileInputs.cache
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.dll
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\refint\ECom.Persistence.dll
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.pdb
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ECom.Persistence.genruntimeconfig.cache
+D:\CodeCamp\BE\ecomAssignment\ECom\ECom.Persistence\obj\Debug\net8.0\ref\ECom.Persistence.dll
